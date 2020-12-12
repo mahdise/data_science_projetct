@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+webvenv/
+__pycache__/
+*.py[cod] 
+.idea
